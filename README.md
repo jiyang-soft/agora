@@ -2,7 +2,7 @@
 
 ### 使用
 ```
-composer require wujie/agora
+composer require jiyang-soft/agora
 ```
 
 ### 配置文件
